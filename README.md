@@ -1,2 +1,0 @@
-# desporto
-canais de desporto

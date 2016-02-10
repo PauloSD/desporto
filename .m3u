@@ -1,0 +1,120 @@
+#EXTM3U
+
+#EXTINF:-1,A BOLA TV
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=bolatv swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&bolatv
+
+#EXTINF:-1,AXN
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axn swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axn
+
+#EXTINF:-1,AXN BLACK
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnblack swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnblack
+
+#EXTINF:-1,AXN WHITE
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnwhite swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnwhite
+
+#EXTINF:-1,Basta Crer
+rtmp://streamspub.manasat.com/live/bastacrer
+
+#EXTINF:-1,DISCOVERY CHANNEL
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=discovery swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&dicovery
+
+#EXTINF:-1,DISNEY CHANNEL
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=disney swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&disney
+
+#EXTINF:-1,ECONOMICO TV
+rtmp://$OPT:rtmp-raw=rtmp://213.13.26.11/live/ playpath=etv_direto swfUrl=http://sicnoticias.sapo.pt/skins/sicnot/gfx/jwplayer/player.swf live=1 pageUrl=http://sicnoticias.sapo.pt/skins/sicnot/gfx/jwplayer/player.swf
+
+#EXTINF:-1,ECONOMICO TV
+http://213.13.26.12:1935/live/_definst_/etv_direto/hasbahca.m3u8
+
+#EXTINF:-1,Euronews
+rtmp://$OPT:rtmp-raw=rtmp://hd4.lsops.net/live/ playpath=bloomber_en_453 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf live=1 pageUrl=http://www.livestation.com/ –live
+
+#EXTINF:-1,EURONEWS PORTUGAL
+http://hd1.lsops.net/live/euronews_pt_340/hasbahca.m3u8
+
+#EXTINF:-1,FOX
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=fox swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&fox
+
+#EXTINF:-1,FOX CRIME
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxcrime swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxcrime
+
+#EXTINF:-1,FOX LIFE
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxlife swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxlife
+
+#EXTINF:-1,FOX MOVIES
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=foxmovies swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&foxmovies
+
+#EXTINF:-1,HISTORIA
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=historia swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&historia
+
+#EXTINF:-1,HOLLYWOOD
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=hollywood swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&hollywood
+
+#EXTINF:-1,MOTORS TV
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=motorstv swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&motors
+
+#EXTINF:-1,MOV
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mov swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&mov
+
+#EXTINF:-1,MTV
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=mtv swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&mtv
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=national swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&national
+
+#EXTINF:-1,ODISSEIA
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=odisseia swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&odisseia
+
+#EXTINF:-1,PORTO CANAL
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=porto swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&porto
+
+#EXTINF:-1,RTP 1
+rtmp://$OPT:rtmp-raw=rtmp://h2k.rtp.pt/livetv playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1
+
+#EXTINF:-1,RTP 2
+rtmp://$OPT:rtmp-raw=rtmp://h2k.rtp.pt/livetv playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2
+
+#EXTINF:-1,RTP 2
+rtmp://$OPT:rtmp-raw=rtmp://ec21.rtp.pt/livetv playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/noticias/votacao/?mysurvey=343r23
+
+#EXTINF:-1,RTP ACORES
+rtmp://$OPT:rtmp-raw=rtmp://ec22.rtp.pt/livetv playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/noticias/votacao/?mysurvey=343r23
+
+#EXTINF:-1,RTP INFORMACAO
+rtmp://$OPT:rtmp-raw=rtmp://h2k.rtp.pt/livetv playpath=2ch64h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinformacao
+
+#EXTINF:-1,RTP INFORMACAO
+rtmp://$OPT:rtmp-raw=rtmp://ec21.rtp.pt/livetv playpath=2ch64h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/noticias/votacao/?mysurvey=343r23
+
+#EXTINF:-1,RTP MEMORIA
+rtmp://$OPT:rtmp-raw=rtmp://h2k.rtp.pt/livetv playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria
+
+#EXTINF:-1,SIC MULHER
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sicmulher swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sicmulher
+
+#EXTINF:-1,SIC NOTICIAS
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sicnoticias swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sicnoticias
+
+#EXTINF:-1,SIC RADICAL
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=sicradical swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&sicradical
+
+#EXTINF:-1,SPORT TV 1:
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.38/liveedge/channelive5 pageUrl=http://championsuefa.tv/ch.php?id=HasBahCa&width=100%&height=95%
+
+#EXTINF:-1,SPORT TV LIVE:
+rtmp://$OPT:rtmp-raw=rtmp://89.248.168.21/liveedge/sporttv4 pageUrl=http://micast.tv/gens2.php/HasBahCa
+#EXTINF:-1,SYFY
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=syfy swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&syfy
+
+#EXTINF:-1,TVI
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=tvi swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&tvi
+
+#EXTINF:-1,TVI 24
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=tvi24 swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&tvi24
+
+#EXTINF:-1,TVI FICCAO
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=tvificcao swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&tvificcao
+
+#EXTINF:-1,TVI MAIS
+rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=tvimais swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&tvimais 
