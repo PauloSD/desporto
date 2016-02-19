@@ -1,636 +1,258 @@
-#EXTM3U
-#EXTINF:-1,[COLOR Green][I][B] FREE IPTV DOS POBRES V2.2 UPDATE 13-2-16 [/B][/I][/COLOR]
-http://google.pt
-#EXTINF:-1,[COLOR Green][I][B]MADE BY CARLOS CARVALHO[/B][/I][/COLOR]
-http://google.pt
-#EXTINF:-1,[COLOR Green][I][B]MAIL: COVILHA2011@HOTMAIL.COM[/B][/I][/COLOR]
-http://google.pt
-
-
-#EXTINF:-1 group-title="AVISO", [COLOR red] A LISTA NAO POSSUI NENHUM [/COLOR]
-http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] SERVIDOR. OS LINKS ESTAO DISPONIVEIS [/COLOR]
-http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] EM PESQUIZA LIVRE NA INTERNET... [/COLOR]
-http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] NÃO ME RESPONSABILIZO [/COLOR]
-http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] PELO USO DOS MESMOS OBRIGADO... [/COLOR]
-http://google.pt
-
-###############################################
-#
-#EXTINF:-1,[COLOR blue]:::: PORTUGAL ::::[/COLOR]
-http://google.pt
-################################################
-#
-
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
-
-
-
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/2.ts
-
-
-
-
-
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3[/B][/I][/COLOR] 
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
-
-
-
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR] 
-http://213.13.26.11:1935/live/sic/hasbahca.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/3.ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
-http://213.13.26.11:1935/live/sic/hasbahca.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]  
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]  
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/4.ts
-
-
-#EXTINF:-1 tvg-id="TVI FICÇÃO.pt" tvg-logo="tvi_ficcao_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI FICÇÃO[/B][/I][/COLOR]  OFF 
-http://www.t12v.com:8000/live/prevot/prevot/1126.ts
-
-
-#EXTINF:-1 tvg-id="SIC CARAS.pt" tvg-logo="SIC CARAS.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC CARAS[/B][/I][/COLOR]   OFF 
-http://www.t12v.com:8000/live/prevot/prevot/1422.ts
-
-
-
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
-
-
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="rtp_memoria.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
-
-
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
-
-
-
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
-
-
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS [/B][/I][/COLOR]  OFF 
-http://cp.dmbshare.net:8000/live/c4a/c4a/3460.ts
-
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
-
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
-
-
-
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="Porto Canal.png" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR] OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
-
-
-#EXTINF:-1 tvg-id="Lisboa TV.pt" tvg-logo="Lisboa TV.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]LISBOA TV[/B][/I][/COLOR]
-http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
-
-
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV.png" group-title="PORTUGAL",[COLOR yellow][I][B]ARTV[/B][/I][/COLOR] 
-http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/inspirationlinks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="economico tv.pt" tvg-logo="economico_tv.png" group-title="PORTUGAL",[COLOR yellow][I][B]ECONOMICO TV[/B][/I][/COLOR] 
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="cmtv.png" group-title="PORTUGAL",[COLOR yellow][I][B]CM TV[/B][/I][/COLOR] OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/671.m3u8
-
-
-
-#EXTINF:-1 tvg-id="GLOBOPREMIUM.pt" tvg-logo="tv_globo_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]GLOBO PREMIUM[/B][/I][/COLOR]  OFF  
-http://www.t12v.com:8000/live/prevot/prevot/1388.ts
-
-
-#EXTINF:-1 tvg-id="GLOBO PORTUGAL.pt" tvg-logo="tv_globo_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]GLOBO PORTUGAL[/B][/I][/COLOR]  ON  
-http://cp.dmbshare.net:8000/live/c4a/c4a/3445.ts
-
-#EXTINF:-1 tvg-id="TV record.pt" tvg-logo="Rede_Record.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV RECORD FULL HD[/B][/I][/COLOR]   OFF 
-http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TV record.pt" tvg-logo="Rede_Record.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV RECORD PORTUGAL[/B][/I][/COLOR]  NEW
-http://www.t12v.com:8000/live/prevot/prevot/1393.ts
-
-
-#EXTINF:-1 tvg-id="REDE TV.BR" tvg-logo="REDE TV.png" group-title="PORTUGAL",[COLOR yellow][I][B]REDE TV BR[/B][/I][/COLOR]
-rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
-
-
-#EXTINF:-1 tvg-id="SBT.BR" tvg-logo="SBT HD.png" group-title="PORTUGAL",[COLOR yellow][I][B]SBT HD BR[/B][/I][/COLOR]   
-rtmp://192.99.46.182/pioneira-tv//pioneira-tv
-
-
-#EXTINF:-1 tvg-id="CHEFE COZINHA .pt" tvg-logo="cheftv.png" group-title="PORTUGAL",[COLOR yellow][I][B]CHEFE COZINHA  BR[/B][/I][/COLOR]  
-http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-
-
-#EXTINF:-1 tvg-id="TV CIÊNCIA .pt" tvg-logo="TV-Ciencia.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV CIÊNCIA [/B][/I][/COLOR]  
-mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
-
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.pt" tvg-logo="Nat_Geo_HD.png" group-title="PORTUGAL",[COLOR yellow][I][B]NATIONAL GEOGRAPHIC [/B][/I][/COLOR]  OFF
-http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8
-
-
-#EXTINF:-1 tvg-id="ODISSEIA.pt" tvg-logo="odisseia_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]ODISSEIA[/B][/I][/COLOR] OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/659.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="FASHION TV.pt" tvg-logo="Fashion_TV_Logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]FASHION TV FULL HD[/B][/I][/COLOR]
-rtmp://95.67.8.43:1935/live/fashionhd
-
-#EXTINF:-1 tvg-id="FASHION TV.pt" tvg-logo="Fashion_TV_Logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]FASHION TV[/B][/I][/COLOR] 
-http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessionid=1005101551
-
-
-#EXTINF:-1 tvg-id="EURONEWS.pt" tvg-logo="euronews1.png" group-title="PORTUGAL",[COLOR yellow][I][B]EURONEWS[/B][/I][/COLOR]  
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
-
-
-
-###############################################
-#
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title= DESPORTO ,[COLOR blue]:::: DESPORTO ::::[/COLOR]
-http://google.pt
-
-################################################
-
-
-
-#EXTINF:-1 tvg-id="ABOLATV.pt" tvg-logo="a_bola_tv_pt.png" group-title="DESPORTO",[COLOR orange][I][B]A BOLA TV[/B][/I][/COLOR]  OFF
-http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
-
-
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]  ON     
-http://tinyurl.com/j53qn36
-
-
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 [/B][/I][/COLOR]  ON   
-http://tinyurl.com/grt9qaw
-
-
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 [/B][/I][/COLOR]  ON   
-http://tinyurl.com/h55ckn3
-
-
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]  ON   
-http://tinyurl.com/jawta6b
-
-
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 [/B][/I][/COLOR] ON
-http://cp.dmbshare.net:8000/live/c4a/c4a/3454.ts
-
-#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 FULL HD[/B][/I][/COLOR]  OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8
-
-
-#EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 HD[/B][/I][/COLOR]  ON 
-http://cp.dmbshare.net:8000/live/c4a/c4a/3495.ts
-
-
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]SPORTING TV[/B][/I][/COLOR]  ON
-http://cp.dmbshare.net:8000/live/c4a/c4a/3452.ts
-
-
-#EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="FootballTV.png" group-title="DESPORTO",[COLOR orange][I][B]TELEKANAL[/B][/I][/COLOR] LIGA NOS   
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="FootballTV.png" group-title="DESPORTO",[COLOR orange][I][B]TELEKANAL[/B][/I][/COLOR]  
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AUTO HOJE TV .pt" tvg-logo="autohoje-tv.gif" group-title="DESPORTO",[COLOR orange][I][B]AUTO HOJE TV [/B][/I][/COLOR]  
-mms://tv.autohoje.com/mpltv
-
-
-#EXTINF:-1 tvg-id="MOTORS TV.pt" tvg-logo="Motors_TV_logo.svg.png" group-title="DESPORTO",[COLOR orange][I][B]MOTORS TV[/B][/I][/COLOR]  
-http://89.163.148.31:8000/live/tufan/tufan/3474.m3u8
-
-
-#EXTINF:-1 tvg-id="Eurosport.pt" tvg-logo="Eurosport_Logo.png" group-title="DESPORTO",[COLOR orange][I][B]Eurosport[/B][/I][/COLOR] 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/667.m3u8
-
-
-#EXTINF:-1 tvg-id="CACAVISION.pt" tvg-logo="cacavision.png" group-title="DESPORTO",[COLOR orange][I][B]CACAVISION[/B][/I][/COLOR]  OFF
-http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/16.ts
-
-
-#EXTINF:-1 tvg-id="CAÇA E PESCA.pt" tvg-logo="CAÇA E PESCA.png" group-title="DESPORTO",[COLOR orange][I][B]CAÇA E PESCA[/B][/I][/COLOR]  OFF
-http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/15.ts
-
-
-#EXTINF:-1 tvg-id="FOX Motorsport" tvg-logo="Fox_Racing_logo.png" group-title="DESPORTO",[COLOR orange][I][B]FOX MOTOR SPORT[/B][/I][/COLOR] 
-http://motorsport.hopto.org:8080/
-
-
-#EXTINF:-1 tvg-id="Motorsport" tvg-logo="logo_motorstv_simple_0.png" group-title="DESPORTO",[COLOR orange][I][B]MOTOR SPORT 1[/B][/I][/COLOR] 
-http://motorsport.hopto.org:8081/
-
-
-#EXTINF:-1 tvg-id="Motorsport" tvg-logo="logo_motorstv_simple_0.png" group-title="DESPORTO",[COLOR orange][I][B]MOTOR SPORT 2[/B][/I][/COLOR] 
-http://motorsport.hopto.org:8082/
-
-
-#EXTINF:-1 tvg-id="Motorsport" tvg-logo="logo_motorstv_simple_0.png" group-title="DESPORTO",[COLOR orange][I][B]MOTOR SPORT 3[/B][/I][/COLOR]  
-http://motorsport.hopto.org:8083/
-
-
-#EXTINF:-1 tvg-id="Motorsport" tvg-logo="logo_motorstv_simple_0.png" group-title="DESPORTO",[COLOR orange][I][B]MOTOR SPORT 4[/B][/I][/COLOR]  
-http://motorsport.hopto.org:8084/
-
-
-#EXTINF:-1 tvg-id="FIGHT SPORT" tvg-logo="FIGHT_SPORT.jpg" group-title="DESPORTO",[COLOR orange][I][B]FIGHT SPORT[/B][/I][/COLOR]  
-http://118.97.183.222:1935/discover/fight/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Fighter_Russia-TV" tvg-logo="Fighter_Russia-TV.png" group-title="DESPORTO",[COLOR orange][I][B]FIGHTER CHANNEL (RUS) [/B][/I][/COLOR]  
-http://87.248.160.8/edge/smil:boet/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="POKER CENTRAL" tvg-logo="poker-central-tv.png" group-title="DESPORTO",[COLOR orange][I][B]POKER CENTRAL[/B][/I][/COLOR]  
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
-
-#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="realmadridtv.png" group-title="DESPORTO",[COLOR orange][I][B]REAL MADRID TV[/B][/I][/COLOR]  
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="NBC Sports.png" group-title="DESPORTO",[COLOR orange][I][B]NBC SPORTS GOLF (USA)[/B][/I][/COLOR] 
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-
-#EXTINF:-1 tvg-id="BeIN Sports 1 HD" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 1 HD[/B][/I][/COLOR]  
-http://46.101.248.73:1234/hls/bein1hd.m3u8
-
-#EXTINF:-1 tvg-id="BeIN Sports 2 HD" tvg-logo="BeIN Sports 2 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 2 HD[/B][/I][/COLOR]  
-http://46.101.248.73:1234/hls/bein2hd.m3u8
-
-
-#EXTINF:-1 tvg-id="BeIN Sports 3 HD" tvg-logo="BeIN Sports 3 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 3 HD[/B][/I][/COLOR]  
-http://46.101.248.73:1234/hls/bein3hd.m3u8
-
-
-#EXTINF:-1 tvg-id="BeIN Sports 4 HD" tvg-logo="BeIN Sports 4 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 4 HD[/B][/I][/COLOR]  
-http://46.101.248.73:1234/hls/bein4hd.m3u8
-
-
-#EXTINF:-1 tvg-id="BeIN Sports 5 HD" tvg-logo="BeIN Sports 5 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 5 HD[/B][/I][/COLOR]  
-http://46.101.248.73:1234/hls/bein5hd.m3u8
-
-
-#EXTINF:-1 tvg-id="BeIN Sports 1 HD" tvg-logo="BeIN Sports 1 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 1 HD FRANÇA[/B][/I][/COLOR]  
-http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BeIN Sports 2 HD" tvg-logo="BeIN Sports 2 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 2 HD FRANÇA[/B][/I][/COLOR]  
-http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="BeIN Sports 3 HD" tvg-logo="BeIN Sports 3 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 3 HD FRANÇA[/B][/I][/COLOR]  
-http://169.45.89.106:1935/app/bein3frlsh/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="BeIN Sports 4 HD" tvg-logo="BeIN Sports 4 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 4 HD FRANÇA[/B][/I][/COLOR]  
-http://169.45.89.106:1935/app/max4lsh/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="BeIN Sports 5 HD" tvg-logo="BeIN Sports 5 HD.png" group-title="DESPORTO",[COLOR orange][I][B] BEIN SPORT 5 HD FRANÇA[/B][/I][/COLOR]  
-http://169.45.89.106:1935/app/max5lsh/playlist.m3u8
-
-
-###############################################
-#
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title= CANAIS DE  ENTRETENIMENTO ,[COLOR blue]:::: CANAIS DE  ENTRETENIMENTO ::::[/COLOR]
-http://google.pt
-
-################################################
-
-
-
-#EXTINF:-1 tvg-id="TVCINE 1.pt" tvg-logo="TVC 1 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 1[/B][/I][/COLOR] ON 
-http://cp.dmbshare.net:8000/live/c4a/c4a/3449.ts
-
-
-
-
-#EXTINF:-1 tvg-id="TVCINE 2.pt" tvg-logo="tvc2.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 2[/B][/I][/COLOR]  ON
-http://cp.dmbshare.net:8000/live/c4a/c4a/3448.ts
-
-
-
-#EXTINF:-1 tvg-id="TVCINE 3.pt" tvg-logo="TVC 3 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 3[/B][/I][/COLOR]  ON 
-http://cp.dmbshare.net:8000/live/c4a/c4a/3447.ts
-
-
-
-
-#EXTINF:-1 tvg-id="TVCINE 4.pt" tvg-logo="TVC 4 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 4[/B][/I][/COLOR] ON 
-http://cp.dmbshare.net:8000/live/c4a/c4a/3446.ts
-
-
-
-#EXTINF:-1 tvg-id="TV SERIES.pt" tvg-logo="TVSER.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TV SERIES[/B][/I][/COLOR] ON 
-http://cp.dmbshare.net:8000/live/c4a/c4a/3444.ts
-
-
-#EXTINF:-1 tvg-id="FOX.pt" tvg-logo="FOX_Network.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX HD[/B][/I][/COLOR] OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8
-
-
-
-#EXTINF:-1 tvg-id="FOX LIFE.pt" tvg-logo="Fox_life_it.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX LIFE FULL HD[/B][/I][/COLOR] OFF 
-http://89.163.148.31:8000/live/tufan/tufan/3478.m3u8
-
-
-#EXTINF:-1 tvg-id="FOX CRIME.pt" tvg-logo="FOX CRIME.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX CRIME[/B][/I][/COLOR]  OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8
-
-
-#EXTINF:-1 tvg-id="FOX MOVIES.pt" tvg-logo="fox_movies_pt.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX MOVIES[/B][/I][/COLOR]  ON 
-http://www.t12v.com:8000/live/prevot/prevot/1148.ts
-
-
-#EXTINF:-1 tvg-id="AXN WHITE.pt" tvg-logo="AXN_WHITE.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN WHITE HD[/B][/I][/COLOR]  OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/678.m3u8
-
-#EXTINF:-1 tvg-id="AXN BLACK.pt" tvg-logo="AXN_Black_logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN BLACK FULL HD[/B][/I][/COLOR]  OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/679.m3u8
-
-#EXTINF:-1 tvg-id="CINEMUNDO.pt" tvg-logo="CINEMUNDO.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]CINEMUNDO[/B][/I][/COLOR] OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/672.m3u8
-
-
-#EXTINF:-1 tvg-id="AMC.pt" tvg-logo="Amc_logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AMC[/B][/I][/COLOR]  ON 
-http://89.163.148.31:8000/live/tufan/tufan/3499.m3u8
-
-#EXTINF:-1 tvg-id="SYFY.pt" tvg-logo="SyFy.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]SYFY[/B][/I][/COLOR]  ON 
-http://www.t12v.com:8000/live/prevot/prevot/1412.ts
-
-##############################################
-#
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title= INFANTIL ,[COLOR blue]:::: INFANTIL ::::[/COLOR]
-http://google.pt
-
-##############################################
-
-
-
-#EXTINF:-1 tvg-id="DISNEY JUNIOR.pt" tvg-logo="disney junior1.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY JUNIOR[/B][/I][/COLOR] OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
-
-
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL.pt" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY CHANNEL[/B][/I][/COLOR] OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
-
-
-#EXTINF:-1 tvg-id="CANAL PANDA.pt" tvg-logo="panda.png" group-title="INFANTIL",[COLOR Gold ][I][B]CANAL PANDA[/B][/I][/COLOR]  OFF 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-logo="Nickelodeon HD.png" group-title="INFANTIL",[COLOR Gold ][I][B]NICKELODEON[/B][/I][/COLOR]  
-http://www.t12v.com:8000/live/prevot/prevot/1394.ts
-
-
-
-#EXTINF:-1 tvg-id="Jim Jam.pt" tvg-logo="JimJam.png" group-title="INFANTIL",[COLOR Gold ][I][B]JIM JAM[/B][/I][/COLOR]  
-http://www.t12v.com:8000/live/prevot/prevot/1423.ts
-
-
-#EXTINF:-1 tvg-id="SIC Kids.pt" tvg-logo="sic_k.png" group-title="INFANTIL",[COLOR Gold ][I][B]SIC Kids[/B][/I][/COLOR]  
-http://www.t12v.com:8000/live/prevot/prevot/1164.ts
-
-
-#EXTINF:-1 tvg-id="Baby TV.pt" tvg-logo="Baby_TV.png" group-title="INFANTIL",[COLOR Gold ][I][B]BABY TV[/B][/I][/COLOR]  
-http://www.t12v.com:8000/live/prevot/prevot/1395.ts
-
-
-#EXTINF:-1 tvg-id="Cartoon Network Portugal.pt" tvg-logo="Cartoon_Network.png" group-title="INFANTIL",[COLOR Gold ][I][B]Cartoon Network Portugal[/B][/I][/COLOR] 
-http://hyper.de1-eu.com:8000/live/saeid/saeid/673.m3u8
-
-
-
-#EXTINF:-1 tvg-id="BOOMERANG Portugal.pt" tvg-logo="Boomerang_tv_logo.png" group-title="INFANTIL",[COLOR Gold ][I][B]BOOMERANG Portugal (OFF)[/B][/I][/COLOR] 
-http://ipsatb.no-ip.info:8000/live/titanic/titanic/378.ts
-
-
-
-
-
-###############################################
-#
-#EXTINF:-1,[COLOR blue]:::: MUSICA ::::[/COLOR]
-http://google.pt
-################################################
-#
-
-
-#EXTINF:-1 tvg-logo="afro_music_channel.png" group-title="MUSICA",[COLOR deepskyblue][I][B]AFRICA MUSIC[/B][/I][/COLOR]  
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-
-#EXTINF:-1 tvg-logo="Logo_-_Virgin_Radio_TV.png" group-title="MUSICA",[COLOR deepskyblue][I][B]TV VIRGIN RADIO[/B][/I][/COLOR]  
-http://wow01.105.net/live/virgin1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="tvg-logo.png" group-title="MUSICA",[COLOR deepskyblue][I][B]FIRST MUSIC CHANNEL[/B][/I][/COLOR]  
-rtmp://rtmp.one.by/SD/1muz
-
-#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VEVO 1 [/B][/I][/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VEVO 2 [/B][/I][/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VEVO 3 [/B][/I][/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="MUSICA",[COLOR deepskyblue][I][B]ONE 1 [/B][/I][/COLOR]
-http://rtmp.one.by:1300
-
-#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="MUSICA",[COLOR deepskyblue][I][B]ONE 2 [/B][/I][/COLOR]
-http://rtmp.one.by:1400
-
-#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="MUSICA",[COLOR deepskyblue][I][B]ONE 3 [/B][/I][/COLOR]
-http://rtmp.one.by:1499
-
-#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="MUSICA",[COLOR deepskyblue][I][B]ONE 4 [/B][/I][/COLOR]
-http://rtmp.one.by:2300
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]DJING IBIZA [/B][/I][/COLOR] 
-http://www.djing.com/tv/d-05.m3u8
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]DJING DANCE FLOOR [/B][/I][/COLOR] 
-http://www.djing.com/tv/dancefloor.m3u8
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]DJING UNDERGROUND [/B][/I][/COLOR] 
-http://www.djing.com/tv/underground.m3u8
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]DJING CLASSIC [/B][/I][/COLOR] 
-http://www.djing.com/tv/i-05.m3u8?time=1454039152638
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]DJING ANIMATION  [/B][/I][/COLOR] 
-http://www.djing.com/tv/a-05.m3u8?time=1454038733694
-
-#EXTINF:-1 tvg-logo="JUCE_TV_logo.png" group-title="MUSICA",[COLOR deepskyblue][I][B]JUCE TV [/B][/I][/COLOR]
-http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="VOX Music TV.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VOX TV [/B][/I][/COLOR]
-rtmp://stream.smcloud.net/live2/vox/vox_720p
-
-#EXTINF:-1 tvg-logo="rmc.png" group-title="MUSICA",[COLOR deepskyblue][I][B]RADIO MONTE CARLO TV [/B][/I][/COLOR] 
-rtmp://fms.105.net:1935/live/rmc1
-
-#EXTINF:-1 tvg-logo="vh1.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VH1 EUROPE [/B][/I][/COLOR] 
-http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="Capital TV.png" group-title="MUSICA",[COLOR deepskyblue][I][B]CAPITAL TV [/B][/I][/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="Heart TV.png" group-title="MUSICA",[COLOR deepskyblue][I][B]HEART TV [/B][/I][/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="Virgin TV.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VIRGIN TV [/B][/I][/COLOR]
-rtmp://fms.105.net:1935/live/virgin2
-
-#EXTINF:-1 tvg-logo="m6.png" group-title="MUSICA",[COLOR deepskyblue][I][B]M6 MUSIC [/B][/I][/COLOR]
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
-#EXTINF:-1 tvg-logo="radioutv.png" group-title="MUSICA",[COLOR deepskyblue][I][B]RADIO U TV [/B][/I][/COLOR]
-rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
-
-#EXTINF:-1 tvg-logo="africa music" group-title="MUSICA",[COLOR deepskyblue][I][B]AFRICA MUSICA [/B][/I][/COLOR]
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]HOT HOT HOT [/B][/I][/COLOR]
-http://www.djing.com/tv/hothothot.m3u8
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]UNDERGROUND [/B][/I][/COLOR]
-http://www.djing.com/tv/underground.m3u8
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]DANCEFLOOR [/B][/I][/COLOR]
-http://www.djing.com/tv/dancefloor.m3u8
-
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",[COLOR deepskyblue][I][B]365 MUSIC [/B][/I][/COLOR]
-http://stream.365music.ru:8000/365music/365music.m3u8
-
-#EXTINF:-1 tvg-logo="dreamtv.png" group-title="MUSICA",[COLOR deepskyblue][I][B]DREAM TV [/B][/I][/COLOR]
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="eska_best_music_tv_pl.png" group-title="MUSICA",[COLOR deepskyblue][I][B]ESKA BEST MUSIC [/B][/I][/COLOR]
-rtmp://stream.smcloud.net/live2/best/best_720p
-
-#EXTINF:-1 tvg-logo="Clubland_tv.png" group-title="MUSICA",[COLOR deepskyblue][I][B]CLUBLAND [/B][/I][/COLOR]
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-#EXTINF:-1 tvg-logo="Radio 105 TV.png" group-title="MUSICA",[COLOR deepskyblue][I][B]RADIO 5 TV [/B][/I][/COLOR]
-rtmp://fms.105.net/live/105Test1
-
-
-#EXTINF:-1 tvg-logo="polo_tv_pl_party.png" group-title="MUSICA",[COLOR deepskyblue][I][B]POLO PARTY TV [/B][/I][/COLOR]
-rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
-
-#EXTINF:-1 tvg-logo="Eska.rock.png" group-title="MUSICA",[COLOR deepskyblue][I][B]ESKA ROCK TV [/B][/I][/COLOR]
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-
-#EXTINF:-1 tvg-logo="kiss tv.png" group-title="MUSICA",[COLOR deepskyblue][I][B]KISS TV [/B][/I][/COLOR]
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-
-
-#EXTINF:-1 tvg-logo="mimusica.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MI MUSICA [/B][/I][/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-
-
-
-#EXTINF:-1 tvg-logo="mtv pt.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MTV [/B][/I][/COLOR]
-http://www.iptvsaga.com/play/tv3/0182.m3u8
-
-#EXTINF:-1 tvg-logo="mtv pt.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MTV RUSSIA [/B][/I][/COLOR]
-http://178.219.48.14:8000/mtv
-
-#EXTINF:-1 tvg-logo="mtv pt.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MTV ROCKS [/B][/I][/COLOR]
-http://lag3.tv-mobile.org/prgc.m3u8
-
-
-#EXTINF:-1 tvg-logo="MTV DANCE.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MTV DANCE [/B][/I][/COLOR]
-http://tv3.noip.me/stream/RA9KFWMDAH/147.m3u8
-
-#EXTINF:-1 tvg-logo="MTV HITS.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MTV HITS [/B][/I][/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="Rouge-TV.png" group-title="MUSICA",[COLOR deepskyblue][I][B]ROUGE TV [/B][/I][/COLOR]
-http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
-
-
-#EXTINF:-1 tvg-logo="musicbox.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MUSIC BOX [/B][/I][/COLOR]
-http://tvclub.fr/ch07.ts
-
-#EXTINF:-1 tvg-logo="MFMTV.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MFM TV [/B][/I][/COLOR]
-http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="MTV_Live_HD.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MTV LIVE [/B][/I][/COLOR] 
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1 tvg-logo="Telehit-logo.png" group-title="MUSICA",[COLOR deepskyblue][I][B]TELEHIT [/B][/I][/COLOR] 
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1 tvg-logo="vh1.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VH1 [/B][/I][/COLOR] 
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1 tvg-logo="vh1.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VH1 [/B][/I][/COLOR] 
-http://stream.fryazino.net:9081/udp/224.0.90.141:1234
-
-#EXTINF:-1 tvg-logo="VH1 Classic.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VH1 CLASSICS [/B][/I][/COLOR] 
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1 tvg-logo="VH1 Classic.png" group-title="MUSICA",[COLOR deepskyblue][I][B]VH1 CLASSICS [/B][/I][/COLOR]  
-http://stream.fryazino.net:9081/udp/224.0.90.40:1234
-
-#EXTINF:-1 tvg-logo="mtv_us.png" group-title="MUSICA",[COLOR deepskyblue][I][B]MTV [/B][/I][/COLOR] 
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="1hd.png" group-title="MUSICA",[COLOR deepskyblue][I][B]1HD [/B][/I][/COLOR]
-http://ger1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="onehdrockro.png" group-title="MUSICA",[COLOR deepskyblue][I][B]ROCK [/B][/I][/COLOR]
-rtmp://91.201.78.3:1935/live/rockhd
-
-#EXTINF:-1 tvg-logo="onehdjazzro-2.png" group-title="MUSICA",[COLOR deepskyblue][I][B]JAZZ [/B][/I][/COLOR]
-rtmp://91.201.78.3:1935/live/jazzhd
-
-#EXTINF:-1 tvg-logo="onehdclassro.png" group-title="MUSICA",[COLOR deepskyblue][I][B]CLASSICS [/B][/I][/COLOR]
-rtmp://91.201.78.3:1935/live/classicshd
-
-#EXTINF:-1 tvg-logo="onehdpopro.png" group-title="MUSICA",[COLOR deepskyblue][I][B]POP [/B][/I][/COLOR]
-rtmp://91.201.78.3:1935/live/pophd
-
+group,No group
+ext,FREE IPTV DOS POBRES V2.1 UPDATE 12-2-16,http://google.pt
+ext,MADE BY CARLOS CARVALHO,http://google.pt
+ext,MAIL: COVILHA2011@HOTMAIL.COM,http://google.pt
+
+group,AVISO
+ext,A LISTA NAO POSSUI NENHUM,http://google.pt
+ext,SERVIDOR. OS LINKS ESTAO DISPONIVEIS,http://google.pt
+ext,EM PESQUIZA LIVRE NA INTERNET...,http://google.pt
+ext,NÃO ME RESPONSABILIZO,http://google.pt
+ext,PELO USO DOS MESMOS OBRIGADO...,http://google.pt
+ext,:::: PORTUGAL ::::,http://google.pt
+
+group,PORTUGAL
+ext,RTP 1  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/1.ts
+rtp1.pt,RTP 1,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+rtp1.pt,RTP 1,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/1.ts
+ext,RTP 2  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/2.ts
+ext,RTP 2  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/656.m3u8
+rtp2.pt,RTP 2,http://hyper.de1-eu.com:8000/live/saeid/saeid/656.m3u8
+rtp2.pt,RTP 2,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/2.ts
+ext,RTP 3  NEW,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+ext,SIC  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/3.ts
+ext,SIC  NEW,http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+sic.pt,SIC,http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
+sic.pt,SIC,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/3.ts
+sic.pt,SIC,http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+ext,TVI  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/4.ts
+ext,TVI  NEW,http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
+ext,TVI  NEW,http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+TVI.pt,TVI,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/4.ts
+TVI.pt,TVI,http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+TVI.pt,TVI,http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+RTPi.pt,RTP INTERNACIONAL,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+RTPi.pt,RTP INTERNACIONAL,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+RTPAfrica.pt,RTP ÁFRICA,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+rtpmemoria.pt,RTP MEMÓRIA,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+RTPMadeira.pt,RTP MADEIRA,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+RTPAcores.pt,RTP AÇORES,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+ext,SIC NOTICIAS   NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/653.m3u8
+ext,SIC NOTICIAS,rtmp://213.13.26.43:1935/live
+ext,SIC NOTICIAS,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/5.ts
+ext,SIC NOTICIAS,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/5.ts
+ext,SIC NOTICIAS,rtmp://213.13.26.42:1935/live
+TVI24.pt,TVI 24,http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+RTPAfrica.pt,RTP ÁFRICA,rtmp://rtppullswflivefs.fplive.net:1935/rtppullswflive-live
+PortoCanal.pt,PORTO CANAL,http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
+ext,LISBOA TV  NEW,http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
+ext,ARTV  NEW,http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/inspirationlinks.m3u8
+ext,ECONOMICO TV  NEW,http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+ext,CM TV  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/671.m3u8
+CMTV.pt,CM TV,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/6.ts
+CMTV.pt,CM TV,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/6.ts
+ext,TVI FICÇAO  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/8.ts
+ext,TVI FICÇAO,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/8.ts
+ext,A QUINTA  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/9.ts
+ext,A QUINTA,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/9.ts
+ext,GLOBO PREMIUM  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/14.ts
+tvrecord.pt,TV RECORD (OFF),http://ipsatb.no-ip.info:8000/live/titanic/titanic/602.ts
+ext,TV RECORD FULL HD  NEW,http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
+ext,REDE TV  NEW,rtmp://evp.mm.uol.com.br:1935/redetv1/_definst_/redetv1
+ext,SBT HD BRASIL  NEW,rtmp://192.99.46.182:1935/pioneira-tv//pioneira-tv
+ext,BRASIL INTERNACIONAL)   NEW,http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+avi,TV CIÊNCIA )   NEW,mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
+HistoryChannel.pt,CANAL HISTORIA,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/10.ts
+HistoryChannel.pt,CANAL HISTORIA,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/10.ts
+ext,NATIONAL GEOGRAPHIC   NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8
+NationalGeographic.uk,NATIONAL GEOGRAPHIC,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/13.ts
+NationalGeographic.uk,NATIONAL GEOGRAPHIC,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/13.ts
+ext,DISCOVERY CHANNEL  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/12.ts
+discoverychannel.pt,DISCOVERY CHANNEL,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/12.ts
+odisseia.pt,ODISSEIA,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/11.ts
+odisseia.pt,ODISSEIA,http://hyper.de1-eu.com:8000/live/saeid/saeid/659.m3u8
+odisseia.pt,ODISSEIA,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/11.ts
+ext,FASHION TV FULL HD  NEW,rtmp://95.67.8.43:1935/live/fashionhd
+ext,FASHION TV  NEW,http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessionid=1005101551
+ext,EURONEWS  NEW,http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
+ext,:::: DESPORTO ::::,http://google.pt
+
+group,DESPORTO
+ext,A BOLA TV  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
+ABolaTV.pt,A BOLA TV,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/20.ts
+ABolaTV.pt,A BOLA TV,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/20.ts
+ext,SportTV 1   NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/641.m3u8
+Sportv.br,SportTV 1,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/24.ts
+Sportv.br,SportTV 1,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/24.ts
+ext,SportTV 2   NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/640.m3u8
+Sportv2.br,SportTV 2,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/25.ts
+Sportv2.br,SportTV 2,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/25.ts
+ext,SportTV 3   NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/639.m3u8
+sporttv3.pt,SportTV 3,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/26.ts
+sporttv3.pt,SportTV 3,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/26.ts
+ext,SportTV 4   NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/638.m3u8
+sporttv4.pt,SportTV 4,rtmp://199.19.95.95:443/flash
+sporttv4.pt,SportTV 4,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/27.ts
+sporttv4.pt,SportTV 4,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/27.ts
+ext,SportTV 5   NEW,http://tv.kitboxtv.com:8000/live/2qGs21VzHL/L8OitXUGwR/282.ts
+SportTVGolfe.pt,SportTV 5,http://hyper.de1-eu.com:8000/live/saeid/saeid/637.m3u8
+SportTVGolfe.pt,SportTV 5,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/28.ts
+SportTVGolfe.pt,SportTV 5,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/28.ts
+ext,BENFICA TV 1 HD  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8
+BenficaTV.pt,BENFICA TV 1,http://91.204.214.106:23201/stolen/250l/xenixos.7z
+BenficaTV.pt,BENFICA TV 1,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/21.ts
+BenficaTV.pt,BENFICA TV 1,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/21.ts
+ext,BENFICA TV 2 HD  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/676.m3u8
+BenficaTV2.pt,BENFICA TV 2,http://91.204.214.106:23201/stolen/233w/xenixos.7z
+BenficaTV2.pt,BENFICA TV 2,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/22.ts
+BenficaTV2.pt,BENFICA TV 2,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/22.ts
+SPORTINGTV.pt,SPORTING TV,http://hyper.de1-eu.com:8000/live/saeid/saeid/652.m3u8
+SPORTINGTV.pt,SPORTING TV,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/23.ts
+SPORTINGTV.pt,SPORTING TV,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/23.ts
+ext,TELEKANAL LIGA NOS   NEW,http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+ext,TELEKANAL  NEW,http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+ext,AUTO HOJE TV   NEW,mms://tv.autohoje.com/mpltv
+ext,MOTORS TV  NEW,http://89.163.148.31:8000/live/tufan/tufan/3474.m3u8
+ext,Eurosport  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/667.m3u8
+ext,CACAVISION  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/16.ts
+ext,CACAVISION,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/16.ts
+ext,CAÇA E PESCA  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/15.ts
+cazaepesca.pt,CAÇA E PESCA,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/15.ts
+ext,FOX MOTOR SPORT  NEW,http://motorsport.hopto.org:8080/
+ext,MOTOR SPORT 1  NEW,http://motorsport.hopto.org:8081/
+ext,MOTOR SPORT 2  NEW,http://motorsport.hopto.org:8082/
+ext,MOTOR SPORT 3  NEW,http://motorsport.hopto.org:8083/
+ext,MOTOR SPORT 4  NEW,http://motorsport.hopto.org:8084/
+ext,FIGHT SPORT  NEW,http://118.97.183.222:1935/discover/fight/playlist.m3u8
+ext,FIGHTER CHANNEL (RUS)   NEW,http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ext,POKER CENTRAL  NEW,http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+ext,REAL MADRID TV  NEW,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+ext,NBC SPORTS GOLF (USA)  NEW,http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ext,BEIN SPORT 1 HD  NEW,http://62.210.162.88:80/live/beIN_AR97/110711022016/1957.ts
+ext,BEIN SPORT 2 HD  NEW,http://62.210.162.88:80/live/beIN_AR97/110711022016/1956.ts
+ext,BEIN SPORT 3 HD  NEW,http://62.210.162.88:80/live/beIN_AR97/110711022016/1955.ts
+ext,BEIN SPORT 4 HD  NEW,http://62.210.162.88:80/live/beIN_AR97/110711022016/1954.ts
+ext,BEIN SPORT 5 HD  NEW,http://62.210.162.88:80/live/beIN_AR97/110711022016/1953.ts
+ext,:::: CANAIS DE  ENTRETENIMENTO ::::,http://google.pt
+
+group,CANAIS DE  ENTRETENIMENTO
+ext,TVCINE 1  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/650.m3u8
+tvc1.pt,TVCINE 1,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/40.ts
+ext,TVCINE 2  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/649.m3u8
+tvc2.pt,TVCINE 2,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/41.ts
+tvc2.pt,TVCINE 2,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/41.ts
+ext,TVCINE 3  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/648.m3u8
+tvc3.pt,TVCINE 3,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/42.ts
+tvc3.pt,TVCINE 3,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/42.ts
+ext,TVCINE 4  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/647.m3u8
+tvc4.pt,TVCINE 4,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/43.ts
+tvc4.pt,TVCINE 4,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/43.ts
+ext,TV SERIES  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/651.m3u8
+ext,HOLLYWOOD  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/52.ts
+hollywood.pt,HOLLYWOOD,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/52.ts
+ext,MOV  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/51.ts
+mov.pt,MOV,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/51.ts
+ext,FOX MOVIES  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/50.ts
+FoxMovies.pt,FOX MOVIES,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/50.ts
+ext,FOX  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/49.ts
+fox.pt,FOX HD,http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8
+fox.pt,FOX HD,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/49.ts
+ext,FOX LIFE  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/48.ts
+ext,FOX LIFE FULL HD,http://89.163.148.31:8000/live/tufan/tufan/3478.m3u8
+ext,FOX LIFE FULL HD,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/48.ts
+ext,FOX CRIME  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/47.ts
+ext,FOX CRIME FULL HD,http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8
+ext,FOX CRIME FULL HD,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/47.ts
+ext,FOX COMEDY  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/46.ts
+ext,AXN  NEW,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/45.ts
+axn.pt,AXN,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/45.ts
+ext,AXN WHITE HD  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/678.m3u8
+AXNWhite.pt,AXN WHITE,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/44.ts
+AXNWhite.pt,AXN WHITE,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/44.ts
+ext,AXN BLACK FULL HD  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/679.m3u8
+Cinemundo.pt,CINEMUNDO,http://hyper.de1-eu.com:8000/live/saeid/saeid/672.m3u8
+AMC.pt,AMC,http://89.163.148.31:8000/live/tufan/tufan/3499.m3u8
+ext,:::: INFANTIL ::::,http://google.pt
+
+group,INFANTIL
+ext,DISNEY JUNIOR  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
+DisneyJunior.pt,DISNEY JUNIOR,http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
+DisneyJunior.pt,DISNEY JUNIOR,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/17.ts
+DisneyJunior.pt,DISNEY JUNIOR,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/17.ts
+ext,DISNEY CHANNEL  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
+disneychannel.pt,DISNEY CHANNEL,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/18.ts
+disneychannel.pt,DISNEY CHANNEL,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/18.ts
+disneychannel.pt,DISNEY CHANNEL,http://www.t12v.com:8000/live/prevot/prevot/1162.ts
+disneychannel.pt,DISNEY CHANNEL,http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
+ext,CANAL PANDA  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
+canalpanda.pt,CANAL PANDA,http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/19.ts
+canalpanda.pt,CANAL PANDA,http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/19.ts
+canalpanda.pt,CANAL PANDA,http://www.t12v.com:8000/live/prevot/prevot/1165.ts
+canalpanda.pt,CANAL PANDA,http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
+ext,NICKELODEON  NEW,http://www.t12v.com:8000/live/prevot/prevot/1394.ts
+ext,JIM JAM  NEW,http://www.t12v.com:8000/live/prevot/prevot/1423.ts
+ext,SIC Kids  NEW,http://www.t12v.com:8000/live/prevot/prevot/1164.ts
+ext,BABY TV  NEW,http://www.t12v.com:8000/live/prevot/prevot/1395.ts
+ext,Cartoon Network Portugal  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/673.m3u8
+ext,Cartoon Network Portugal  NEW,http://hyper.de1-eu.com:8000/live/saeid/saeid/673.m3u8
+ext,BOOMERANG Portugal (OFF)  NEW,http://ipsatb.no-ip.info:8000/live/titanic/titanic/378.ts
+ext,:::: MUSICA ::::,http://google.pt
+
+group,MUSICA
+ext,AFRICA MUSIC  NEW,http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+ext,TV VIRGIN RADIO  NEW,http://wow01.105.net/live/virgin1/playlist.m3u8
+ext,FIRST MUSIC CHANNEL  NEW,rtmp://rtmp.one.by:1935/SD/1muz
+ext,VEVO 1,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ext,VEVO 2,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+ext,VEVO 3,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ext,ONE 1,http://rtmp.one.by:1300
+ext,ONE 2,http://rtmp.one.by:1400
+ext,ONE 3,http://rtmp.one.by:1499
+ext,ONE 4,http://rtmp.one.by:2300
+ext,DJING IBIZA,http://www.djing.com/tv/d-05.m3u8
+ext,DJING DANCE FLOOR,http://www.djing.com/tv/dancefloor.m3u8
+ext,DJING UNDERGROUND,http://www.djing.com/tv/underground.m3u8
+ext,DJING CLASSIC,http://www.djing.com/tv/i-05.m3u8?time=1454039152638
+ext,DJING ANIMATION,http://www.djing.com/tv/a-05.m3u8?time=1454038733694
+jctv,JUCE TV,http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+Vox.de,VOX TV,rtmp://stream.smcloud.net:1935/live2/vox/vox_720p
+ext,RADIO MONTE CARLO TV,rtmp://fms.105.net:1935/live/rmc1
+vh1-europe,VH1 EUROPE,http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
+CapitalTV.uk,CAPITAL TV,http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+ext,HEART TV,http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+ext,VIRGIN TV,rtmp://fms.105.net:1935/live/virgin2
+M6MusicHits.fr,M6 MUSIC,http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+ext,RADIO U TV,rtmp://cdn.rbm.tv:1935/rightbrainmedia-live-109/_definst_/
+ext,AFRICA MUSICA,http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+ext,HOT HOT HOT,http://www.djing.com/tv/hothothot.m3u8
+ext,UNDERGROUND,http://www.djing.com/tv/underground.m3u8
+ext,DANCEFLOOR,http://www.djing.com/tv/dancefloor.m3u8
+ext,365 MUSIC,http://stream.365music.ru:8000/365music/365music.m3u8
+DreamTV.tr,DREAM TV,http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+ext,ESKA BEST MUSIC,rtmp://stream.smcloud.net:1935/live2/best/best_720p
+ClublandTV.uk,CLUBLAND,http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ext,RADIO 5 TV,rtmp://fms.105.net:1935/live/105Test1
+ext,POLO PARTY TV,rtmp://stream.smcloud.net:1935/live2/polo_party/polo_party_720p
+ext,ESKA ROCK TV,rtmp://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p
+KissTV.uk,KISS TV,rtmp://tst.es.flash.glb.ipercast.net:1935/tst.es-live//live
+Quiero.ar,MI MUSICA,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+mtvportugal.pt,MTV,http://www.iptvsaga.com/play/tv3/0182.m3u8
+pyatnica,MTV RUSSIA,http://178.219.48.14:8000/mtv
+MTVRocks.uk,MTV ROCKS,http://lag3.tv-mobile.org/prgc.m3u8
+MTVDance.uk,MTV DANCE,http://tv3.noip.me/stream/RA9KFWMDAH/147.m3u8
+MTVHits.uk,MTV HITS,http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?supertvlat=%2F.ts
+RougeTV.fr,ROUGE TV,http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+mbu,MUSIC BOX,http://tvclub.fr/ch07.ts
+ext,MFM TV,http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+mtvlive-hd,MTV LIVE,http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?=%2F.ts
+Telehit.mx,TELEHIT,http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?=%2F.ts
+vh1.pt,VH1,http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?=%2F.ts
+vh1.pt,VH1,http://stream.fryazino.net:9081/udp/224.0.90.141:1234
+VH1Classic.sl,VH1 CLASSICS,http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?=%2F.ts
+VH1Classic.sl,VH1 CLASSICS,http://stream.fryazino.net:9081/udp/224.0.90.40:1234
+mtvportugal.pt,MTV,http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?=%2F.ts
+1hdru,1HD,http://ger1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+ext,ROCK,rtmp://91.201.78.3:1935/live/rockhd
+Jazz.us,JAZZ,rtmp://91.201.78.3:1935/live/jazzhd
+ext,CLASSICS,rtmp://91.201.78.3:1935/live/classicshd
+pop.uk,POP,rtmp://91.201.78.3:1935/live/pophd
